@@ -19,7 +19,7 @@ This project uses Groq API to generate structured study notes from any given top
 
 ## 📌 How it works
 1. User inputs a topic
-2. Prompt is sent to Gemini API
+2. Prompt is sent to Groq API
 3. Model generates structured notes
 4. Output is displayed and optionally saved
 
@@ -28,4 +28,4 @@ Input: Machine Learning
 Output: Structured notes with concepts, examples, and summary
 
 ## 📎 Project Link
-(Add your Colab link here)
+(https://colab.research.google.com/drive/1hWiR6ZhvpgiKLd4d9oG6Zdl-MGsUWeyJ?usp=sharing)
